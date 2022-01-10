@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CRUD test with steps","This will create new Service","SUCCESS","2022-01-09T12:10:15.932Z[Europe/London]","0.0","0.1"
+"Services CRUD test with steps","Verify if the Service was created in application","SUCCESS","2022-01-09T12:10:16.037Z[Europe/London]","0.0","0.06"
+"Services CRUD test with steps","Update Service information and verify the updated information","SUCCESS","2022-01-09T12:10:16.094Z[Europe/London]","0.0","0.13"
+"Services CRUD test with steps","Delete Service and verify if the Service is deleted","SUCCESS","2022-01-09T12:10:16.224Z[Europe/London]","0.0","0.3"

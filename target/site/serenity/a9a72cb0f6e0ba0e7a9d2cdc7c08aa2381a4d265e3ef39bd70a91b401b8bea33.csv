@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products CRUD test with steps","This will create a new Product","SUCCESS","2022-01-09T12:10:11.293Z[Europe/London]","0.0","0.21"
+"Products CRUD test with steps","Verify that Product was added to the application","SUCCESS","2022-01-09T12:10:11.508Z[Europe/London]","0.0","3.68"
+"Products CRUD test with steps","Update the Product information and verify the updated information","SUCCESS","2022-01-09T12:10:15.195Z[Europe/London]","0.0","0.52"
+"Products CRUD test with steps","Delete the Product and verify if the Product is deleted!","SUCCESS","2022-01-09T12:10:15.718Z[Europe/London]","0.0","0.09"
